@@ -191,4 +191,4 @@ exports.export = function(dest, destName, get) {
 
 },{}]},["eGA2g"], "eGA2g", "parcelRequire2ba7")
 
-//# sourceMappingURL=index.extension.js.map
+//# sourceMappingURL=index.js.map
