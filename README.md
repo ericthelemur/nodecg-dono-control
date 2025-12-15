@@ -1,5 +1,8 @@
 # NodeCG Tiltify Donation Controller
 
+> [!WARNING]
+> This repo has been merged into https://github.com/ericthelemur/wasd
+
 Tiltify Control provides a donation reader and moderation interface for Tiltify Donations, using NodeCG & React. It is both a reliable donation reader, and a donation moderation tool -- allowing approval/censorship of donation messages before they are shown on stream. This project depends on my TypeScript rewrite of [`nodecg-tiltify`](https://github.com/ericthelemur/nodecg-tiltify), originally based on [`daniellockard/nodecg-tiltify`](https://github.com/daniellockard/nodecg-tiltify).
 
 By default, it requires manual approval of each message before it is displayed, however if the auto approval setting is on, messages are automatically approved if not censored within the time window configured (default: 15s).
